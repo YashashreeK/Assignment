@@ -1,0 +1,10 @@
+framework module Assignment {
+  umbrella header "Assignment.h"
+
+  export *
+  module * { export * }
+}
+
+module Assignment.__Swift {
+    exclude header "Assignment-Swift.h"
+}

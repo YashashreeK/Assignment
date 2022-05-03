@@ -1,0 +1,13 @@
+{
+  'version': 0,
+  'case-sensitive': 'false',
+  'roots': [{
+    'type': 'directory',
+    'name': "/Users/yashashree/Documents/Assignment/Assignment/build/Debug-iphoneos/Assignment.framework/Modules"
+    'contents': [{
+      'type': 'file',
+      'name': "module.modulemap",
+      'external-contents': "/Users/yashashree/Documents/Assignment/Assignment/build/Assignment.build/Debug-iphoneos/Assignment.build/unextended-module.modulemap",
+    }]
+  }]
+}

@@ -1,0 +1,23 @@
+/Users/yashashree/Documents/Assignment/Assignment/Assignment/Data/Repository/DefaultCryptoRepository.swift
+/Users/yashashree/Documents/Assignment/Assignment/Assignment/Utils/Enum.swift
+/Users/yashashree/Documents/Assignment/Assignment/Assignment/Application/DIContainer/AppDIContainer.swift
+/Users/yashashree/Documents/Assignment/Assignment/Assignment/Infrastructure/NetworkService.swift
+/Users/yashashree/Documents/Assignment/Assignment/Assignment/Data/Network/Data\ Mapping/CryptoRequestDTO.swift
+/Users/yashashree/Documents/Assignment/Assignment/Assignment/Infrastructure/NetworkConfig.swift
+/Users/yashashree/Documents/Assignment/Assignment/Assignment/Presentation/Flow/LoginFlowCoordinator.swift
+/Users/yashashree/Documents/Assignment/Assignment/Assignment/Application/DIContainer/CryptoDIContainer.swift
+/Users/yashashree/Documents/Assignment/Assignment/Assignment/Utils/Observable.swift
+/Users/yashashree/Documents/Assignment/Assignment/Assignment/Presentation/View/CryptoViewController.swift
+/Users/yashashree/Documents/Assignment/Assignment/Assignment/Presentation/View/TableViewCell.swift
+/Users/yashashree/Documents/Assignment/Assignment/Assignment/Application/AppConfiguration.swift
+/Users/yashashree/Documents/Assignment/Assignment/Assignment/Domain/Interface/CryptoRepository.swift
+/Users/yashashree/Documents/Assignment/Assignment/Assignment/Data/Network/APIEndpoints.swift
+/Users/yashashree/Documents/Assignment/Assignment/Assignment/Infrastructure/Endpoint.swift
+/Users/yashashree/Documents/Assignment/Assignment/Assignment/Data/Network/Data\ Mapping/CryptoResponseDTO.swift
+/Users/yashashree/Documents/Assignment/Assignment/Assignment/Presentation/View/TableViewHeader.swift
+/Users/yashashree/Documents/Assignment/Assignment/Assignment/Infrastructure/Parser.swift
+/Users/yashashree/Documents/Assignment/Assignment/Assignment/Application/AppFlowCoordinator.swift
+/Users/yashashree/Documents/Assignment/Assignment/Assignment/Presentation/View/ViewCrypto.swift
+/Users/yashashree/Documents/Assignment/Assignment/Assignment/Assignment.swift
+/Users/yashashree/Documents/Assignment/Assignment/Assignment/Domain/CryptoUseCase.swift
+/Users/yashashree/Documents/Assignment/Assignment/Assignment/Presentation/ViewModel/CryptoViewModel.swift
